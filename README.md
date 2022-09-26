@@ -17,9 +17,3 @@ Nesse projeto, foi desenvolvido uma **API**(Application Programming Interface) c
  - Dependências: expressjs (4.18.1), mongoose (6.6.1) e body-parser (1.20.0);
  - MongoDB;
  - Postman.
-
-
-
-# 
-
-- 
